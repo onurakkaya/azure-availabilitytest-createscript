@@ -1,0 +1,47 @@
+DisplayName = "North Central US",
+Tag = "us-il-ch1-azr"
+
+DisplayName = "West Europe",
+Tag = "emea-nl-ams-azr"
+
+DisplayName = "Southeast Asia",
+Tag = "apac-sg-sin-azr"
+
+DisplayName = "West US",
+Tag = "us-ca-sjc-azr"
+
+DisplayName = "South Central US",
+Tag = "us-tx-sn1-azr"
+
+DisplayName = "East US",
+Tag = "us-va-ash-azr"
+
+DisplayName = "East Asia",
+Tag = "apac-hk-hkn-azr"
+
+DisplayName = "North Europe",
+Tag = "emea-gb-db3-azr"
+
+DisplayName = "Japan East",
+Tag = "apac-jp-kaw-edge"
+
+DisplayName = "Australia East",
+Tag = "emea-au-syd-edge"
+
+DisplayName = "France Central (Formerly France South)",
+Tag = "emea-ch-zrh-edge"
+
+DisplayName = "France Central",
+Tag = "emea-fr-pra-edge"
+
+DisplayName = "UK South",
+Tag = "emea-ru-msa-edge"
+
+DisplayName = "UK West",
+Tag = "emea-se-sto-edge"
+
+DisplayName = "Brazil South",
+Tag = "latam-br-gru-edge"
+
+DisplayName = "Central US",
+Tag = "us-fl-mia-edge"

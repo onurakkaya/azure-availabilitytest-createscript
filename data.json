@@ -1,0 +1,20 @@
+[
+ {
+   "Name": "Site 1",
+   "Url": "https://site1.com",
+   "Company": "Onur Akkaya",
+   "Expected Status Code": 200
+ },
+ {
+   "Name": "Site 2",
+   "Url": "http://site2.com",
+   "Company": "Onur Akkaya",
+   "Expected Status Code": 200
+ },
+ {
+   "Name": "Site 3",
+   "Url": "http://site3.net",
+   "Company": "Onur Akkaya",
+   "Expected Status Code": 200
+ }
+]
